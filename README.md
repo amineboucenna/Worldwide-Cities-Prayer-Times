@@ -7,17 +7,17 @@ This script fetches the daily prayer times for a given city from the [IslamicFin
 - Beautiful Soup 4 library
 
 You can install the required libraries by running the following command:
-
 ```
 pip install requests
-pip install bs4
+pip install BeautifulSoup
 ```
 
 Once you have the necessary libraries installed, you can simply clone the project from GitHub:
-``
+```
 git clone https://github.com/amineboucenna/Worldwide-Cities-Prayer-Times.git
 cd Worldwide-Cities-Prayer-Times/
-``
+```
+
 ## Usage
 
 1. visit [IslamicFinder](https://www.islamicfinder.org/world) and choose your country and your city
