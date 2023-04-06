@@ -14,9 +14,10 @@ pip install bs4
 ```
 
 Once you have the necessary libraries installed, you can simply clone the project from GitHub:
-
+``
 git clone https://github.com/amineboucenna/Worldwide-Cities-Prayer-Times.git
-
+cd Worldwide-Cities-Prayer-Times/
+``
 ## Usage
 
 1. visit [IslamicFinder](https://www.islamicfinder.org/world) and choose your country and your city
@@ -24,7 +25,7 @@ git clone https://github.com/amineboucenna/Worldwide-Cities-Prayer-Times.git
 3. Run the script using the command `python city_prayers_times.py`.
 4. The script will print out the prayer times for the current day, if the specified country and city are found.
 
-##Example
+## Example
 
 ```bash
 $ python city_prayers_times.py
